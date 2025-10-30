@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yuan Bian (边缘)"
-description              : "Master Student at Xiamen University, Department of Astronomy. Focusing on computational astrophysics, galaxy formation and evolution, and machine learning.
+description              : "PhD Student at UT Dallas, Department of Physics. Focusing on computational astrophysics, galaxy formation and evolution, and machine learning.
 "
 repository               : "RobbinBian/YuanBian.github.io"
 google_scholar_stats_use_cdn : false
@@ -24,12 +24,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yuan Bian"
   avatar           : "images/YuanBian.JPG"
-  bio              : "Xiamen University"
-  location         : "Xiamen, China"
+  bio              : "UT Dallas"
+  location         : "Dallas, USA"
   employer         :
   pubmed           : 
   googlescholar    : # "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "bianyuan@stu.xmu.edu.cn"
+  email            : "Yuan.Bian@UTDallas.edu"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
