@@ -36,7 +36,7 @@ Hi! I am Bian, Yuan (边缘), a PhD student at The University of Texas at Dallas
 
 <!-- [Two Channels of Metal-Rich Compact Stellar System Formation: Starbursts Under High Ram Pressure vs. Tidal Stripping](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf) -->
 
-**[Two Channels of Metal-Rich Compact Stellar System Formation: Starbursts Under High Ram Pressure vs. Tidal Stripping](https://ui.adsabs.harvard.edu/abs/2025ApJ...979L..33B/abstract)**
+**[Two Channels of Metal-rich Compact Stellar System Formation: Starbursts under High Ram Pressure versus Tidal Stripping](https://ui.adsabs.harvard.edu/abs/2025ApJ...979L..33B/abstract)**
 
 **Yuan Bian**, Min Du, Victor P. Debattista, et al.
 

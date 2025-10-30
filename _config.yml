@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yuan Bian (边缘)"
-description              : "PhD Student at UT Dallas, Department of Physics. Focusing on computational astrophysics, galaxy formation and evolution, and machine learning.
+description              : "PhD Student at UT Dallas.
 "
 repository               : "RobbinBian/YuanBian.github.io"
 google_scholar_stats_use_cdn : false
@@ -24,7 +24,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yuan Bian"
   avatar           : "images/YuanBian.JPG"
-  bio              : "UT Dallas"
+  # bio              : "UT Dallas"
   location         : "Dallas, USA"
   employer         :
   pubmed           : 
