@@ -58,9 +58,9 @@ Hi! I am Bian, Yuan (边缘), a PhD student at The University of Texas at Dallas
 - *2018.10* The Second Prize of the National College Students Mathematical Contest (Top 10%)
 - *2018.10* The Scholarship for Outstanding Academic Achievement (Top 2/200+) -->
 
-# 📖 Educations
+<!-- # 📖 Educations
 - *2025.08 - present*, Ph.D, University of Texas at Dallas. 
-- *2021.09 - 2025.6*, Master, Xiamen University. 
+- *2021.09 - 2025.6*, Master, Xiamen University.  -->
 
 # 💬 Talks
 - *2023.08*, 2023 Annual Meeting of Chinese Astronomical Society, Weihai, China.
